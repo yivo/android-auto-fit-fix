@@ -1,0 +1,21 @@
+{
+  "name": "android-auto-fit-fix",
+  "version": "1.0.0",
+  "homepage": "https://github.com/yivo/android-auto-fit-fix",
+  "authors": [
+    "Yaroslav Konoplov <yaroslav@inbox.com>"
+  ],
+  "description": "Fix for broken Auto-Fit Page feature in Android Browser 4.0+",
+  "main": "android-auto-fit-fix.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "coffeespec",
+    "source",
+    "spec"
+  ]
+}
