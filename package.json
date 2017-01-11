@@ -1,0 +1,24 @@
+{
+  "name": "android-auto-fit-fix",
+  "version": "1.0.1",
+  "description": "Fix for buggy Auto-Fit Page feature in builtin Android 4.x browser",
+  "main": "android-auto-fit-fix.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yivo/android-auto-fit-fix.git"
+  },
+  "keywords": [
+    "android",
+    "browser",
+    "auto-fit"
+  ],
+  "author": "Yaroslav Konoplov <eahome00@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yivo/android-auto-fit-fix/issues"
+  },
+  "homepage": "https://github.com/yivo/android-auto-fit-fix#readme"
+}
