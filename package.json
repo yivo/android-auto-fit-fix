@@ -1,6 +1,6 @@
 {
   "name": "android-auto-fit-fix",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Fix for buggy Auto-Fit Page feature in builtin Android 4.x browser",
   "main": "android-auto-fit-fix.js",
   "scripts": {

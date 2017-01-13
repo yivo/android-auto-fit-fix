@@ -1,3 +1,7 @@
+/*!
+ * android-auto-fit-fix 1.0.2 | https://github.com/yivo/android-auto-fit-fix | MIT License
+ */
+
 // http://www.matt-helps.com/android-browser-auto-fit-fix/
 
 (function() {
